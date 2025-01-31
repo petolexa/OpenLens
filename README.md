@@ -1,5 +1,7 @@
 > [!CAUTION]
 > Lens Closed its source code. So please do not expect any more updates.
+>
+> If interested, try a successor project [Freelens](https://github.com/freelensapp/freelens), that [started in the beginning of 2025](https://github.com/MuhammedKalkan/OpenLens/issues/188#issuecomment-2613953188) with the OpenLens version as a codebase.
 
 # OpenLens Build Repo
 
